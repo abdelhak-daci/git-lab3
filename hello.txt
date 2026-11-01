@@ -1,2 +1,2 @@
-Conflict resolved
-Maintenance update
+Feature B updated
+Maintenace update
