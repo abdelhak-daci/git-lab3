@@ -1,6 +1,2 @@
 Feature B updated
-Feature B
-=======
-Conflict resolved
-Maintenance update
->>>>>>> 83bb9702fd820bdbf72e02648922b340e65a6fcf
+Maintenace update
